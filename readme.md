@@ -1,9 +1,8 @@
 # 👋 Hi there, I'm M. Jeyakumar
 
-🎓 **Computer Science Student | Developer | Tech Enthusiast**  
+🎓 **AI Student | Developer | Tech Enthusiast**  
 🌱 Passionate about solving real-world problems using technology  
 🚀 Exploring AI, Machine Learning, Deep Learning, and Full-Stack Development  
-📍 Comprehension Lab Participant | Resume Builder | Open Source Learner
 
 ---
 
@@ -11,9 +10,9 @@
 
 - **Programming Languages:** Python, Java, C
 - **Web Development:** HTML, CSS, JavaScript, Flask
-- **Database Management:** SQL, MySQL, PostgreSQL
+- **Database Management:** SQL, MySQL
 - **Tools & Platforms:** Git, GitHub, VS Code, FlowCV, Linktree
-- **Other Skills:** OOPs, DBMS, Data Structures, REST APIs
+- **Other Skills:** OOPs, DBMS, Data Structures
 - **ML & DL Frameworks:** TensorFlow, scikit-learn, OpenCV
 
 ---
@@ -28,10 +27,6 @@
 ### 🔍 [CrimeSpot - Crime Analysis & Prediction System](https://github.com/M-Jeyakumar/CrimeSpot)
 - Predictive system that analyzes crime trends and generates heatmaps
 - Built with Flask, PostgreSQL, and Apache Kafka for real-time streaming
-
-### 📺 [YouTube Downloader Telegram Bot](https://github.com/M-Jeyakumar/YouTube-Downloader-Bot)
-- Telegram bot that allows users to download YouTube videos via chat
-- Uses Python, pytube, and Telegram Bot API
 
 ---
 
